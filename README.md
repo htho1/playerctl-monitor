@@ -12,7 +12,7 @@ see `playerctl-monitor -h`
 
 ## Formatting
 
-Use `-f` to specify the format of the output, using the following placeholders.
+Use `-f` to specify the format of the output, using the following placeholders
 
 | placeholder | name |
 | - | - |
