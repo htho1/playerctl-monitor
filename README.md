@@ -4,7 +4,7 @@ Outputs information from playerctl at a regular interval in a user-specified for
 
 ## Building
 
-`go build -o playerctl-monitor main.go`
+`go build -o playerctl-monitor main.go` or put it somewhere else like in your path
 
 ## Usage
 
